@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,QACF,CAEA,oBAEE,gBAAiB,CACjB,wBACF","file":"main.18707871.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n\n.tabs,\n.tab__content {\n  margin: 10px 30px;\n  text-transform: uppercase;\n}\n"]}
